@@ -105,4 +105,5 @@ extern "C" void __cxa_pure_virtual() {;}
 #include <microcoap.h>
 #include <observers.c>
 #include <observers.h>
+#include <uart.c>
 #endif

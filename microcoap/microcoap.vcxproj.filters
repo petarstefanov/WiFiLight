@@ -44,5 +44,8 @@
     <ClCompile Include="endpoints.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="uart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
